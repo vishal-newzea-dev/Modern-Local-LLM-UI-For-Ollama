@@ -1,4 +1,4 @@
-# Ollama Local UI
+# Modern-Local-LLM-UI-For-Ollama
 
 A simple, cross-platform, and self-contained web UI for interacting with local Ollama models. Built with Go.
 
