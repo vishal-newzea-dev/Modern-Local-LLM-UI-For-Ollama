@@ -1,7 +1,7 @@
 # Modern-Local-LLM-UI-For-Ollama
+## Source Code: main.go and /static/index.html
 
-A simple, cross-platform, and self-contained web UI for interacting with local Ollama models. Built with Go.
-Source Code: main.go and /static/index.html
+## A simple, cross-platform, and self-contained web UI for interacting with local Ollama models. Built with Go.
 
 ![Screenshot](./images/local-llm-ui-1.png)
 
